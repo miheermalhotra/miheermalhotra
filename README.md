@@ -39,7 +39,5 @@
  <img src="https://github-readme-stats.vercel.app/api?username=miheermalhotra&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=miheermalhotra&theme=dark" width="48%" >
   
-## Top Languages
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miheermalhotra&layout=compact)
+
   
