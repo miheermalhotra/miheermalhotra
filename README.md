@@ -3,9 +3,9 @@
 
 ### I am a passionate for user interfaces and the technologies related.
 
-- 🔭 I am currently working as a Software Architect UI.
-- 🌱 Currently learning : Python, Devops.
-- 💬 Ask me about: Software Architecture, JavaScript, Vue, React, CSS.
+- 🔭 I am currently working as a Solution Architect.
+- 🌱 Currently learning : AWS.
+- 💬 Ask me about: Software Architecture, JavaScript, React.
 
 ## Contact me
 <p align='center'>
