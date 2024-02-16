@@ -3,8 +3,8 @@
 
 ### I am a passionate for user interfaces and the technologies related.
 
-- 🔭 I am currently working as a Solution Architect.
-- 🌱 Currently learning : AWS.
+- 🔭 I am currently working as a Softwre Architect focussed on UI and User Experience.
+- 🌱 Currently learning : AWS, GraphQL and Web Cost Optimization
 - 💬 Ask me about: Software Architecture, JavaScript, React.
 
 ## Contact me
@@ -12,7 +12,6 @@
 <a href="mailto:miheermalhotra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://dev.to/miheermalhotra" target="_blank"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/maxxmize"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/miheer_malhotra/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/miheermalhotra/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 <br>
